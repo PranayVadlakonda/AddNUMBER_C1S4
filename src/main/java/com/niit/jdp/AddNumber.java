@@ -8,6 +8,9 @@ public class AddNumber {
         // initialize a for loop
         for (int number = 1; number <= 100 ; number++) {
 
+            // initialize a sum variable to add sum and new number
+            sum = sum + number;
+
 
         }
 
