@@ -11,6 +11,10 @@ public class AddNumber {
             // initialize a sum variable to add sum and new number
             sum = sum + number;
 
+            // print the sum using sout
+            System.out.println("sum =" +sum);
+
+
 
         }
 
