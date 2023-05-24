@@ -13,9 +13,6 @@ public class AddNumber {
 
             // print the sum using sout
             System.out.println("sum =" +sum);
-
-
-
         }
 
     }
